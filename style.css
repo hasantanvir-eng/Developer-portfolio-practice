@@ -41,3 +41,36 @@ h3{
     background-position: right;
     margin-bottom: 40px;
 }
+.experiences{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    margin-bottom: 40px;
+}
+.expo{
+    box-shadow: 10px 10px 40px gray;
+}
+.full-stack{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.baby-web{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+#ex-border1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#ex-border2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
